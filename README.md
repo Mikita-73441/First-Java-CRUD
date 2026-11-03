@@ -21,7 +21,7 @@ The application starts on http://localhost:8080.
 
 - show all customers in a table
 - search customers by last name
-- create, edit and delete customers
+- create, edit and delete customers (use the "Add customer" button to create a new one)
 
 ## Files
 
